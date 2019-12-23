@@ -1,0 +1,2 @@
+# NeteaseMusicPlaylistExportScript
+基于NeteaseCloudMusicApi的简单导出个人歌单歌曲列表的脚本。
